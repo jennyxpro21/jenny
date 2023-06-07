@@ -6,10 +6,10 @@
 
 <p align="center">
 
-<a href="https://github.com/itz-star-boi/ShizukaXMusic"> 
+<a href="https://github.com/Ayushxmartx/Lezend"> 
 <img src="https://img.shields.io/github/repo-size/itz-star-boi/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
 
-<a href="https://github.com/itz-star-boi/ShizukaXMusic/commits/prince"> 
+<a href="https://github. com com/itz-star-boi/ShizukaXMusic/commits/prince"> 
 <img src="https://img.shields.io/github/last-commit/itz-star-boi/ShizukaXMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 <a href="https://github.com/itz-star-boi/ShizukaXMusic/issues"> 
