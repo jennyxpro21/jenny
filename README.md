@@ -1,8 +1,8 @@
-<h1 align="center"><b>❤️ SHIZUKA MUSIC ❤️</b></h1>
+<h1 align="center"><b>❤️ AYUSH MUSIC ❤️</b></h1>
 
-<h4 align="center">Shizuka A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center">AYUSH Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://telegram.dog/its_star_boi"><img src="https://te.legra.ph/file/de224affddc6230c73d24.jpg" width="400"></a></p>
+<p align="center"><a href="https://telegram.dog/Tere_papa_broken"><img src="https://te.legra.ph/file/de224affddc6230c73d24.jpg" width="400"></a></p>
 
 <p align="center">
 
