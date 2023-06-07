@@ -12,7 +12,7 @@
 <a href="https://github. com com/itz-star-boi/ShizukaXMusic/commits/prince"> 
 <img src="https://img.shields.io/github/last-commit/itz-star-boi/ShizukaXMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
 
-<a href="https://github.com/itz-star-boi/ShizukaXMusic/issues"> 
+<a href="https://github.com/Ayushxmartx/Lezend"> 
 <img src="https://img.shields.io/github/issues/itz-star-boi/ShizukaXMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 <a href="https://github.com/itz-star-boi/ShizukaXMusic/network/members"> 
