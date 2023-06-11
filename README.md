@@ -309,13 +309,13 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [sᴛᴀʀ ʙᴏɪ](https://telegram.dog/its_star_boi)
+- [AYUSH](https://telegram.dog/Tere_papa_broken)
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://telegram.dog/Dr_Asad_Ali)
+- [Ak](https://telegram.dog/Tere_papa_broken)
 
 - [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
 
-- [ʜᴀʀsʜɪᴛ](https://telegram.dog/HarshitSharma361)
+- [NOBITA](https://telegram.dog/YES_ME_IZ_NOBITA)
 
 - [Abhimanyu](https://telegram.dog/Itz_Venom_xD)
 
