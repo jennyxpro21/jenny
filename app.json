@@ -1,6 +1,6 @@
 {
-    "name": "Shizuka Music Bot",
-    "description": "Shizuka Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
+    "name": "𝙆𝙄𝙇𝙇𝙀𝙍 𝙓 𝙈𝙐𝙎𝙄𝘾 🦋",
+    "description": "𝙆𝙄𝙇𝙇𝙀𝙍🦋 Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/798b7275e58d09ac6b095.jpg",
     "keywords": [
     "python3",
@@ -55,12 +55,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/Star_X_Support",
+        "value": "https://t.me/KWF_IND",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/Star_X_Network",
+        "value": "https://t.me/KWF_IND",
         "required": false
       },
       "PING_IMG_URL": {
@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/itz-star-boi/ShizukaXMusic",
+        "value": "https://github.com/jennyxpro21/jenny",
         "required": true
       },
       "UPSTREAM_BRANCH": {
