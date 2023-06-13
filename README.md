@@ -1,8 +1,8 @@
-<h1 align="center"><b>❤️ AYUSH MUSIC ❤️</b></h1>
+<h1 align="center"><b>❤️ 𝙆𝙄𝙇𝙇𝙀𝙍 𝙓 𝙈𝙐𝙎𝙄𝘾 🦋 ❤️</b></h1>
 
 <h4 align="center">AYUSH Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://telegram.dog/Tere_papa_broken"><img src="https://te.legra.ph/file/de224affddc6230c73d24.jpg" width="400"></a></p>
+<p align="center"><a href="https://telegram.dog/Tere_papa_broken"><img src="https://graph.org/file/cea26e48787ae6e49ab73.jpg" width="400"></a></p>
 
 <p align="center">
 
